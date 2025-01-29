@@ -1,0 +1,7 @@
+torch
+numpy
+streamlit
+matplotlib
+scipy
+powerlaw
+Pillow
